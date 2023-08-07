@@ -1,0 +1,5 @@
+export const COOKIES = {
+  ACCESS_TOKEN: 'ACCESS_TOKEN',
+  REFRESH_TOKEN: 'REFRESH_TOKEN',
+  EXPIRE_TIME: 604800000, // Expired within 1 week
+};

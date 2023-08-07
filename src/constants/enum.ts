@@ -1,0 +1,5 @@
+export enum ERole {
+  ROLE_ADMIN,
+  ROLE_APPROVAL_MANAGER,
+  ROLE_NORMAL,
+}
